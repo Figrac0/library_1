@@ -1,0 +1,28 @@
+{
+  "name": "customizator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.3",
+    "core-js": "^3.31.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.68.0",
+    "webpack": "^5.88.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "babel-loader": "^9.2.1"
+  }
+}
